@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://healthcare-llm-fkzttfcmfckc7rvghpfhvk.streamlit.app)
 # Healthcare AI RAG Assistant 🩺
 
 🔴 **Live Demo:**  
