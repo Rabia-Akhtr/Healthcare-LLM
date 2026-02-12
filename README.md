@@ -1,6 +1,9 @@
 # Healthcare AI RAG Assistant 🩺
 
-A Retrieval-Augmented Generation (RAG) application that allows users to upload a medical PDF and ask questions using OpenAI and LangChain.
+🔴 **Live Demo:**  
+https://healthcare-llm-fkzttfcmfckc7rvghpfhvk.streamlit.app
+
+A Retrieval-Augmented Generation (RAG) application that allows users to upload a medical PDF and ask questions.
 
 ## Features
 - Upload medical PDF
